@@ -122,7 +122,3 @@ The CNN model demonstrated robust performance:
 ## Conclusion
 
 BabyCode leverages machine learning to decode and understand baby cries, paving the way for enhanced parent-baby interactions. Our project demonstrates the potential of AI in addressing fundamental parenting challenges, underscoring the importance of technology in childcare.
-
----
-
-This README provides a comprehensive overview of the BabyCode project, detailing its inception, methodology, implementation, results, and future directions. Adjust as necessary to fit the formatting and conventions of your GitHub repository.
